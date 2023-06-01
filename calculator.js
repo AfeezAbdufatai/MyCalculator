@@ -1,6 +1,6 @@
 let myResult = document.getElementById('inputNumber');
 
-function calculate(numner){
+function calculate(number){
     myResult.value += number;
 };
 function result(){
